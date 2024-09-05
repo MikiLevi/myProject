@@ -1,0 +1,110 @@
+body {
+    /* font-family: Arial, sans-serif; */
+    /* margin: 0 auto; */
+    /* padding: 0; */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(226, 220, 220);
+}
+
+
+nav div {
+    background-color:  #003300;
+    justify-content: center;
+    display: flex;
+    gap: 1.5rem;
+}
+
+nav div a{
+    text-decoration: none;
+    color: #909191;
+}
+
+#army{
+    background-color:#004400 ;
+    color: white;
+    text-align: center;
+}
+
+.Welcome{
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.Registration{
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.Courses{
+    background-color: #E6E6E6;
+    border-radius: 5px;
+    margin: 15px 25% 1%;
+    padding: 15px;
+}
+
+.text{
+    text-align: center;
+    max-width: 50px;
+}
+
+.p1{
+    margin-top: 5px;
+    background-color: #FF9898;
+    border-radius: 5px;
+    padding: 5px;
+    margin:1px;
+}
+
+.p2{
+    margin-top: 5px;
+    background-color: #99CCFF;
+    border-radius: 5px;
+    padding: 3px;
+    margin:1px;
+}
+
+.p3{
+    margin-top: 5px;
+    background-color: #FFFF99;
+    border-radius: 5px;
+    padding: 3px;
+    margin:1px;
+    
+}
+
+footer h6{
+    padding: 10px 0 0 10px;
+    position: relative;
+    background-color: #004400;
+    color: white;
+    text-align: center;
+}
+
+.Training{
+    background-color:#FFFFFF ;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Train{
+    color: #004400;
+}
+
+.myp{
+    font-weight: bold;
+}
+
+.form{
+    background-color: #E6E6E6;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
